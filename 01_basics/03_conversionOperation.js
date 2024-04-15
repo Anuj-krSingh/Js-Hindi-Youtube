@@ -51,7 +51,42 @@ let score5 = true
 // console.log(typeof booleanIsLoggedIn);
 
 
-let someNumber = 25;
-let stringNum = String(someNumber);
-console.log(stringNum);                 // 25
-console.log(typeof stringNum);          // String
+// let someNumber = 25;
+// let stringNum = String(someNumber);
+// console.log(stringNum);                 // 25
+// console.log(typeof stringNum);          // String
+
+// ***********************************  Operations  ******************************************
+
+// let value = 3;
+// let negValue = -value
+// console.log(negValue);
+
+// let str1 = "Hello"
+// let str2 = " Roman"
+
+// let str3 = str1 + str2
+// console.log(str3);
+
+// console.log(1 + '2');
+// console.log('1' + 2);
+// console.log('1' + '2');
+// console.log('1' + 2 + 2);
+// console.log(1 +2 + '2');
+// console.log((3+4)* 5%3);
+// console.log(+true);
+// console.log(true+);     // Syntax Error
+// console.log(+"");
+
+// let num1 , num2, num3;
+// num1 = num2 = num3 = 2+2
+// console.log(num1);
+// console.log(num2);
+// console.log(num3);
+
+
+let gameCounter = 100;
+gameCounter++;
+console.log(gameCounter);
+++gameCounter;
+console.log(gameCounter);
