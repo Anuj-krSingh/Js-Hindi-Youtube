@@ -13,16 +13,19 @@ let name = 'Roman'
 let age = 25
 let isLoggedIn = false
 
-// number => 2 to the power of 20
-// bigInt
-// string => ""
-// boolean => true/false
-// null => standalone value
-// undefined => 
-// symbol => unique
+// Datatypes in JS
+// ===============
+
+// 1.number => 2 to the power of 20
+// 2.bigInt
+// 3.string => ""
+// 4.boolean => true/false
+// 5.null => standalone value
+// 6.undefined => 
+// 7.symbol => unique
 
 
-// object
+// 8.object
 
 console.log(typeof "Roman");
 console.log(typeof null);  // object
